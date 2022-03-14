@@ -68,3 +68,8 @@ So in this way JLCPCB provides Low Price and Fast delivery which saves your mone
 
 # Video Tutorial.
 https://youtu.be/-odt-YGzzkc
+
+# Related Sites:
+https://jlcpcb.com/smt-assembly
+https://jlcpcb.com/parts
+JLCPCB ( https://jlcpcb.com/RNA )
